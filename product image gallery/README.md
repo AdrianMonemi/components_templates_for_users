@@ -2,8 +2,6 @@
 
 ![thumbnail](thumbnail.png)
 
-[Watch On Youtube](https://youtu.be/4p3jtN0xnhQ)
-
 # Code Snippets
 
 ## HTML
