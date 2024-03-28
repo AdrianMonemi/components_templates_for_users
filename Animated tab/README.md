@@ -1,7 +1,7 @@
 # How to build Responsive Animated Tabs using HTML5 CSS3 & Javascript
 
 ![Tabs](Tab.png)
-
+----------
 ----------
 # Code Snippets
 
