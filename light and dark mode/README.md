@@ -2,8 +2,6 @@
 
 ![light&dark mode](code.png)
 
-[▶ video link](https://youtu.be/yS_TcLIRdds)
-
 # code Snippets
 
 
