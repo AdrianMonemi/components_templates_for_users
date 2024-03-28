@@ -2,8 +2,6 @@
 
 ![thumbnail](thumbnail.png)
 
-[▶ video link](https://youtu.be/h6r-40Zl2vs)
-
 ----------
 
 # Code Snippets
