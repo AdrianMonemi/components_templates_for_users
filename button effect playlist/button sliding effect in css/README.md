@@ -2,8 +2,6 @@
 
 ![Button-effect](thumbnail.png)
 
-[watch ▶▶](https://link)
-
 # Source code
 
 ## HTML5
