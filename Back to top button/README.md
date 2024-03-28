@@ -2,8 +2,6 @@
 
 ![back-to-top](Back-to-Top.png)
 
-[ ▶ video](https://youtu.be/rw8qSfi4bc4)
-
 ## Code Snippets
 
 ### HTML5 & Javascript
