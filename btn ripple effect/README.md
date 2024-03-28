@@ -2,8 +2,6 @@
 
 ![btn-ripple-effect](Btn-Ripple-effect.png)
 
-[▶ video-link](https://youtu.be/aWcpnJsCQck)
-
 # Code snippets
 
 ## HTML5 & Javascript
