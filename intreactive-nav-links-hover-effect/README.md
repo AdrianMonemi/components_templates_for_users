@@ -2,8 +2,6 @@
 
 ![links hover effect](nav-links-hover-effect.png)
 
-[▶▶ video link]()
-
 # Code Snippets
 
 ## HTML5
