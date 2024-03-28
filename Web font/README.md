@@ -2,8 +2,6 @@
 
 ![thumbnile](thumbnail.png)
 
-[watch on youtube](https://youtu.be/FDMNF8SNxM0)
-
 # Code snippets
 
 ## ionicons
