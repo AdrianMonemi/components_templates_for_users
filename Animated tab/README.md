@@ -2,8 +2,6 @@
 
 ![Tabs](Tab.png)
 
-[▶▶ video link]()
-
 ----------
 # Code Snippets
 
