@@ -1,6 +1,7 @@
 # Light and Dark Theme Toggle Using HTML CSS & JavaScript
+
 ![thumbnail](thumbnail.png)
-[Watch On Youtube](https://youtu.be/dT35sEAozFg)
+
 # Starter Code
 ## Web font
 ```html
