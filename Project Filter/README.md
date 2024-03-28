@@ -2,7 +2,6 @@
 
 ![project-filter](project-filter.png)
 
-[Watch on youtube]()
 # Code Snippet
 
 ----------
