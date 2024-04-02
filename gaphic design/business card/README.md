@@ -3,4 +3,3 @@
 ![thumbnail](thumbnail.png)
 
 ----------
-
