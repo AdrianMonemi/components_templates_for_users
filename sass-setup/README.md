@@ -21,3 +21,4 @@ npm i -g sass
     "sass:compress": "sass --no-source-map --watch sass/style.scss css/compress.css --style compressed"
   },
 ```
+
